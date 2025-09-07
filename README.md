@@ -5,4 +5,7 @@
 3. https://hardyian.medium.com/a-beginners-guide-to-back-end-development-8c32addb4078
 4. https://medium.com/swlh/all-you-need-to-know-about-json-web-token-jwt-8a5d6131157f
 5. https://medium.com/@sreekanth.thummala/a-comprehensive-guide-to-amazon-web-services-aws-services-ef00e0e834cc
+6. https://arithmancylabs.medium.com/understanding-faiss-indexing-86ec98048bd9
+7. https://medium.com/mongodb/how-to-choose-the-best-embedding-model-for-your-llm-application-2f65fcdfa58d
+8. https://medium.com/@nikunj.agarwal012/a-beginners-guide-to-retrieval-augmented-generation-rag-8d9920c6e6ae
    
