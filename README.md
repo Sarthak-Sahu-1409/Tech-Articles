@@ -8,4 +8,6 @@
 6. https://arithmancylabs.medium.com/understanding-faiss-indexing-86ec98048bd9
 7. https://medium.com/mongodb/how-to-choose-the-best-embedding-model-for-your-llm-application-2f65fcdfa58d
 8. https://medium.com/@nikunj.agarwal012/a-beginners-guide-to-retrieval-augmented-generation-rag-8d9920c6e6ae
+9. https://medium.com/@atulkumar_68871/incorporating-chat-history-in-conversational-agents-using-langchain-9045b85edb78
+10. https://medium.com/@saumitra1joshi/langchain-agents-tools-chains-memory-for-utilizing-the-full-potential-of-llms-211e5dfee3fa
    
