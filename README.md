@@ -9,3 +9,4 @@
 - [A Beginner’s Guide to RAG](https://medium.com/@nikunj.agarwal012/a-beginners-guide-to-retrieval-augmented-generation-rag-8d9920c6e6ae)  
 - [Incorporating Chat History in Conversational Agents](https://medium.com/@atulkumar_68871/incorporating-chat-history-in-conversational-agents-using-langchain-9045b85edb78)  
 - [LangChain Agents, Tools, Chains & Memory](https://medium.com/@saumitra1joshi/langchain-agents-tools-chains-memory-for-utilizing-the-full-potential-of-llms-211e5dfee3fa)  
+- [Understanding REST APIs](https://medium.com/@MakeComputerScienceGreatAgain/understanding-rest-api-a-comprehensive-guide-52fc10f6c9ed)
