@@ -11,3 +11,4 @@
 - [Understanding REST APIs](https://medium.com/@MakeComputerScienceGreatAgain/understanding-rest-api-a-comprehensive-guide-52fc10f6c9ed)
 - [Intro and Benefits - Microservices Architecture](https://medium.com/microservices-architecture/microservices-architecture-7caf60fc4d37)
 - [Payment Gateway Integration for System Design](https://tarunjain07.medium.com/payment-gateway-integration-for-system-design-22a7cc2c156f)
+- [Agentic AI workflows in 2025](https://www.vellum.ai/blog/agentic-workflows-emerging-architectures-and-design-patterns)
