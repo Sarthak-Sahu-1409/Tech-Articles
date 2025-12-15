@@ -14,3 +14,4 @@
 - [Agentic AI workflows in 2025](https://www.vellum.ai/blog/agentic-workflows-emerging-architectures-and-design-patterns)
 - [Knowledge Gaphs vs RAG](https://medium.com/%40senpubali7/building-ai-agents-with-knowledge-graphs-vs-retrieval-augmented-generation-a2730ec1915a)
 - [Docker Tutorial](https://medium.com/@kmdkhadeer/docker-get-started-9aa7ee662cea)
+- [API Design](https://medium.com/@techsuneel99/api-design-from-basics-to-best-practices-da47c63aaf70)
