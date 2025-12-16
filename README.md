@@ -15,3 +15,4 @@
 - [Knowledge Gaphs vs RAG](https://medium.com/%40senpubali7/building-ai-agents-with-knowledge-graphs-vs-retrieval-augmented-generation-a2730ec1915a)
 - [Docker Tutorial](https://medium.com/@kmdkhadeer/docker-get-started-9aa7ee662cea)
 - [API Design](https://medium.com/@techsuneel99/api-design-from-basics-to-best-practices-da47c63aaf70)
+- [MVC Architecture](https://medium.com/@ansari028amaan/understanding-mvc-architecture-in-the-mern-stack-5cc083828298)
