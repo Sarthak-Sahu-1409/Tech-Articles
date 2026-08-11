@@ -17,3 +17,4 @@
 - [API Design](https://medium.com/@techsuneel99/api-design-from-basics-to-best-practices-da47c63aaf70)
 - [MVC Architecture](https://medium.com/@ansari028amaan/understanding-mvc-architecture-in-the-mern-stack-5cc083828298)
 - [Docker Introduction](https://medium.com/@anshulganvir/introduction-to-docker-337b9d09a079)
+- [Kafka Basics](https://medium.com/inspiredbrilliance/kafka-basics-and-core-concepts-5fd7a68c3193)
